@@ -1,0 +1,11 @@
+CANTEEN ORDER SCHEDULING SYSTEM
+
+O1 Thali 12 min Priority 2
+O2 Sandwich 5 min Priority 1
+O3 Dosa 8 min Priority 3
+O4 Tea 3 min Priority 1
+
+ALGORITHM COMPARISON
+FCFS     Average Waiting: 14.25 min   Average Turnaround: 21.25 min
+SPT      Average Waiting: 6.75 min    Average Turnaround: 13.75 min
+Priority Average Waiting: 9.50 min    Average Turnaround: 16.50 min

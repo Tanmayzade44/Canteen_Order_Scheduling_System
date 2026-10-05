@@ -1,0 +1,2 @@
+# No third-party packages are required to run the application.
+# Python 3.9+ recommended.
